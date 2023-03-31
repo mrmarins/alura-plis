@@ -149,7 +149,7 @@ body {
 }
 
 .lista__link a:active{
-    color: purple;
+    color: var(--link-visitado);
 }
 
 .container__botao:hover {
